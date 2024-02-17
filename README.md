@@ -150,3 +150,10 @@ permute across batch dim is not supported yet!
 $ make
 $ ./ncnn_main
 ```
+
+# Reference
+
+https://github.com/FeiGeChuanShu/ncnn-android-depth_anything
+https://github.com/Tencent/ncnn/issues/5334
+
+
