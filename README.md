@@ -147,4 +147,6 @@ permute across batch dim is not supported yet!
 permute across batch dim is not supported yet!
 permute across batch dim is not supported yet!
 permute across batch dim is not supported yet!
+$ make
+$ ./ncnn_main
 ```
